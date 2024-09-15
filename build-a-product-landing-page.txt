@@ -1,0 +1,369 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shuukan</title>
+    
+</head>
+<body>
+<header id="header">
+    <div class="header-div">
+        <div class="logo">
+            <img id="header-img" src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Weekly_Shonen_Magazine_logo.png" alt="Shuukan">
+        </div>
+        <nav id="nav-bar">
+        <ul id="nav-ul">
+            <div class="menu">
+                <a class="nav-link" href="#manga-volumes">
+                    <div class="icon-1">
+                        <img src="https://shonenmagazine.com/assets/img/logo_magazine_week.png" alt="Volumes">
+                    </div>
+                    <div class="text">
+                    <li class="nav-li">
+                        Volumes
+                    </li>
+                    </div>
+                </a>
+            </div>
+            <div class="menu">
+                <a class="nav-link" href="#manga-series">
+                    <div class="icon-2">
+                        <img src="https://shonenmagazine.com/assets/img/logo_magazine_month.png" alt="Series">
+                    </div>
+                    <div class="text">
+                    <li class="nav-li">
+                        Manga Series
+                    </li>
+                    </div>
+                </a>
+                </div>
+            <div class="menu">
+                <a class="nav-link" href="#News">
+                    <div class="icon-3">
+                        <img src="https://shonenmagazine.com/assets/img/logo_magazine_magapoke.png">
+                    </div>
+                    <div class="text">
+                    <li class="nav-li">
+                        News
+                    </li>
+                    </div>
+                </a>
+            </div>
+        </ul>
+        </nav>
+    </div>
+</header>
+    <div class="space"></div>
+<div class="section-div">
+<section id="Information">
+    <h2 class="Information">Manga update newspaper</h2>
+    <form id="form" action="https://www.freecodecamp.com/email-submit">
+        <input name="email" id="email" type="email" placeholder="Enter your email address" required>
+        <input value="Register" id="submit" type="submit" class="button">
+    </form>
+</section>
+</div>
+<section id="manga-volumes">
+    <h2 class="volumes">Check out the latest manga volumes</h2>
+    <h2 class="date">09/11/2024</h2>
+<div class="mangas">
+    <div class="manga">
+        <div class="thumb">
+            <img src="https://shonenmagazine.com/assets/uploads/2024/09/image_66d9d9a0b5d7d-400x596.jpg"> 
+        </div>
+        <div class="title">Blue Wolves</div>
+        <div class="creator">Tsuyoshi Yasuda</div>
+    </div>
+    <div class="manga">
+        <div class="thumb">
+            <img src="https://shonenmagazine.com/assets/uploads/2024/09/image_66d9d9a26f34c-400x596.jpg"> 
+        </div>
+        <div class="title">Honeko Akabane's Bodyguards</div>
+        <div class="creator">Masamitsu Nigatsu</div>
+    </div>
+    <div class="manga">
+        <div class="thumb">
+            <img src="https://shonenmagazine.com/assets/uploads/2024/09/image_66d9d9a2d9fbc-400x596.jpg"> 
+        </div>
+        <div class="title">Gachi Akuta</div>
+        <div class="creator">Kei Urana</div>
+    </div>
+    <div class="manga">
+        <div class="thumb">
+            <img src="https://shonenmagazine.com/assets/uploads/2024/09/image_66d9d9a33d745-400x596.jpg"> 
+        </div>
+        <div class="title">A Couple of Cuckoos</div>
+        <div class="creator">Miki Yoshikawa</div>
+    </div>
+    <div class="manga">
+        <div class="thumb">
+            <img src="https://shonenmagazine.com/assets/uploads/2024/09/image_66d9d9a39a0ba-400x569.jpg"> 
+        </div>
+        <div class="title">Shangri-la Frontier</div>
+        <div class="creator">Toshiyuki Kubooka</div>
+    </div>
+    <div class="manga">
+        <div class="thumb">
+            <img src="https://shonenmagazine.com/assets/uploads/2024/09/image_66d9d9a46fc2f-400x596.jpg"> 
+        </div>
+        <div class="title">Banjo no Orion</div>
+        <div class="creator">Arakawa Naoshi</div>
+    </div>
+</section>
+<section id="manga-series">
+    <h2 class="manga-series-h">Manga Series</h2>
+<div class="mangas-series">
+    <div class="manga-series">
+        <div class="thumb-series">
+            <img src="https://shonenmagazine.com/assets/uploads/2023/12/image_65801cc7288dc.jpg">
+        </div>
+        <div class="title-series">Hajime no Ippo</div>
+    </div>
+    <div class="manga-series">
+        <div class="thumb-series">
+            <img src="https://shonenmagazine.com/assets/uploads/2024/01/image_65a39a449f7a0.jpg">
+        </div>
+        <div class="title-series">Edens Zero</div>
+    </div>
+    <div class="manga-series">
+        <div class="thumb-series">
+            <img src="https://shonenmagazine.com/assets/uploads/2024/01/image_65a3b5f3aee31.jpg">
+        </div>
+        <div class="title-series">Apocalypse Riders</div>
+    </div>
+    <div class="manga-series">
+        <div class="thumb-series">
+            <img src="https://shonenmagazine.com/assets/uploads/2024/01/image_65a3b5d8689af.jpg">
+        </div>
+        <div class="title-series">Shangri-la Frontier</div>
+    </div>
+    <div class="manga-series">
+        <div class="thumb-series">
+            <img src="https://shonenmagazine.com/assets/uploads/2023/12/image_65801cd091933.jpg">
+        </div>
+        <div class="title-series">Blue Lock</div>
+    </div>
+    <div class="manga-series">
+        <div class="thumb-series">
+            <img src="https://shonenmagazine.com/assets/uploads/2024/06/megami_thumbnail.jpg">
+        </div>
+        <div class="title-series">Goddess' Cafeteria</div>
+    </div>
+</div>
+</section>
+<section id="News">
+    <h2 class="news-news">News</h2>
+    <div class="news-video">
+        <div class="news-news-video">
+            <iframe id="video" width="560" height="315" src="https://www.youtube.com/watch?v=0ub4QYlOaRU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+        <div class="video-topic">Kohei Horikoshi drawing Boku no Hero</div>
+    </div>
+</section>
+
+</body>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.header-div {
+  border-bottom: 2px solid grey;
+  width: 100%;
+  display: flex;
+  position: fixed;
+  max-width: 1200px;
+  min-width: 100%;
+  background-color: white;
+  z-index: 1;
+}
+
+.logo #header-img {
+  width: 200px;
+  height: 100%;
+}
+
+.logo {
+  width: 60vw;
+}
+
+#nav-bar {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+}
+
+
+#nav-ul {
+  display: flex;
+}
+
+.menu{
+  border-left: 2px solid grey;
+  height: 100%;
+  display: flex;
+  padding: 0 50px;
+}
+
+.icon-3 img, .icon-2 img, .icon-1 img{
+    padding-top: 5px;
+}
+
+.icon-3 img{
+  width: 213px;
+}
+
+.icon-2 img{
+  width: 130px;
+}
+
+.img-1 img{
+  width: 125px;
+}
+
+.text li {
+  list-style: none;
+  color: black;
+  font-size: 20px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  
+}
+
+.space {
+  width: 1000px;
+}
+
+#Information {
+display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 10px;
+    color: orangered;
+    height: 400px;
+}
+
+#email {
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.button {
+  color: white;
+  background-color: orangered;
+  margin-top: 5px;
+  width: 100%;
+  max-width: 150px;
+  padding: 10px 0;
+  border-radius: 10px;
+}
+
+.section-div {
+  position: relative;
+}
+
+#manga-volumes {
+  width: 80%;
+  margin: 0 auto;
+  padding-bottom: 20px;
+  border-bottom: 2px solid grey;
+}
+
+.date {
+  width: 100%;
+  border-bottom: 2px solid grey;
+}
+
+.mangas, .mangas-series {
+  display: flex;
+  flex-wrap: wrap;
+  height: auto;
+  justify-content: center;
+}
+
+.manga {
+  width: 16.6%;
+  padding: 10px;
+  position: relative;
+}
+
+.thumb img{
+  width: 100%;
+}
+
+#manga-series h2 {
+  border-bottom: 2px solid grey;
+}
+
+#manga-series {
+  width: 80%;
+  margin: 0 auto;
+  padding-top: 100px;
+  padding-bottom: 20px;
+  border-bottom: 2px solid grey;
+}
+
+.manga-series img {
+  width: 100%;
+  position: relative;
+  padding-left: 15px;
+  padding-top: 15px;
+  }
+
+.manga-series .title-series{
+  text-align: center;
+}
+
+#News {
+  margin: 0 auto;
+  width: 80%;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+#News h2 {
+  border-bottom: 2px solid grey;
+}
+
+.news-news-video iframe {
+  display: flex;
+  justify-content: center;
+  padding-top: 15px;
+  margin: 0 auto;
+}
+
+.video-topic {
+  text-align: center;
+  padding-top: 5px;
+}
+
+@media (max-width: 1000px){
+  .icon-1, .icon-2, .icon-3 {
+    display: none;
+  }
+}
+
+@media (max-width: 650px) {
+  #nav-bar {
+    display: none;
+  }
+}
+
+** end of undefined **
+
